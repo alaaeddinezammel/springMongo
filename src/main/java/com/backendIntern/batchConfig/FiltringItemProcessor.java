@@ -17,7 +17,7 @@ public class FiltringItemProcessor implements ItemProcessor<String, logLine> {
 		}else
 		{
 			
-			//System.out.println("*******"+line.substring(0,8));
+			System.out.println("*******"+line.substring(0,8));
 			//System.out.println("*******"+line.substring(38));
 
 	        final logLine logligne = new logLine("", line.substring(0,8), "SLE file" , line.substring(38));
