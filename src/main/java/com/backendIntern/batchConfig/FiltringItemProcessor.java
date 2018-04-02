@@ -2,7 +2,7 @@ package com.backendIntern.batchConfig;
 
 import org.springframework.batch.item.ItemProcessor;
 
-import com.backend.model.logLine;
+import com.backendIntern.model.logLine;
 
 
 public class FiltringItemProcessor implements ItemProcessor<String, logLine> {

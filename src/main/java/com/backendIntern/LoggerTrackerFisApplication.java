@@ -1,4 +1,4 @@
-package com.backendIntern.demo;
+package com.backendIntern;
 
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
 import org.springframework.boot.SpringApplication;

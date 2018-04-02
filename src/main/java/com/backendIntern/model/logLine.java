@@ -1,4 +1,4 @@
-package com.backend.model;
+package com.backendIntern.model;
 
 public class logLine {
 
